@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="/plugins/openLas" >
+     <file>icon.png</file>
+  </qresource>
+</RCC>
